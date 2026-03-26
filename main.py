@@ -18,7 +18,7 @@ BOT_TOKEN = os.getenv("BOT_TOKEN", "8787890167:AAE9jILCx1S0m40cOEb0Oz9_j53nCag6h
 ADMIN_ID = 8446478484
 MY_SIGNATURE = "@voidsafarov"
 CHANNEL = "t.me/amerikatehlike"
-RESULTS_CHANNEL = "-1002465589285"  # İstersen değiştir
+RESULTS_CHANNEL = ""  # İstersen değiştir
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
@@ -339,7 +339,7 @@ def start_scan(user_id, file_path, chat_id):
 # ====================== RAILWAY ÇALIŞTIRMA ======================
 if __name__ == "__main__":
     print("="*60)
-    print("🚀 Skyline HOTMAIL Checker Bot - Railway Ready")
+    print("🚀 AMERİKA HOTMAİL CHECKER - Railway Ready")
     print(f"Admin: {ADMIN_ID} | Creator: {MY_SIGNATURE}")
     print("="*60)
     
