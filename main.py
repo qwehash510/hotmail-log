@@ -18,7 +18,7 @@ BOT_TOKEN = os.getenv("BOT_TOKEN", "8787890167:AAE9jILCx1S0m40cOEb0Oz9_j53nCag6h
 ADMIN_ID = 8446478484
 MY_SIGNATURE = "@voidsafarov"
 CHANNEL = "t.me/amerikatehlike"
-RESULTS_CHANNEL = ""  # İstersen değiştir
+RESULTS_CHANNEL = "-1003858012326"  # İstersen değiştir
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
