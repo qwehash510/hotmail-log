@@ -211,7 +211,7 @@ def start(message):
     
     status = "👑 VIP" if is_vip(user_id) else "⭐ Ücretsiz"
     text = f"""
-⚡ <b>Skyline HOTMAIL Checker</b>
+⚡ <b>AMERİKA HOTMAIL CHECKER</b>
 
 🔥 60+ Servis • AI Kontrolü • TikTok Full
 👤 ID: <code>{user_id}</code>
